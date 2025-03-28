@@ -144,7 +144,7 @@
                 <a class="navbar-brand" href="/">
                     <img src="{{ url('/img/logo.png') }}" alt="EMTCMJ Pinto Paca" height="75">
                 </a>
-                <a class="nav-link d-lg-none" href="/login" style="color: white !important;">Login</a>
+                <a class="nav-link d-lg-none" href="/login" style="color: white !important;">Área Restrita</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -159,7 +159,7 @@
                     </ul>
                     <ul class="navbar-nav d-none d-lg-flex">
                         <li class="nav-item">
-                            <a class="nav-link" href="/login">Login</a>
+                            <a class="nav-link" href="/login">Área Restrita</a>
                         </li>
                     </ul>
                 </div>
@@ -168,7 +168,7 @@
 
         <section class="hero-section">
             <div class="container">
-                <h1 class="hero-title">Bem-vindo à EMTCMJ Pinto Paca</h1>
+                <h1 class="hero-title">Escola Ten Cel Manoel Joaquim Pinto Paca</h1>
                 <p class="hero-subtitle">Educação de qualidade para um futuro melhor</p>
             </div>
         </section>
@@ -179,7 +179,7 @@
                     <div class="col-md-6 mb-4">
                         <div class="card h-100">
                             <div class="card-body">
-                                <h3 class="card-title mb-4">Calendário 2025</h3>
+                                <h3 class="card-title mb-4">Calendário Letivo 2025</h3>
                                 <img src="/img/calendario_2025.jpeg" class="img-fluid rounded" alt="Calendário 2025">
                             </div>
                         </div>
